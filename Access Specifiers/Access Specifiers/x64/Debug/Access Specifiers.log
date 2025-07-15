@@ -1,0 +1,3 @@
+﻿  Access Specifiers.cpp
+C:\Users\belal\Desktop\OOP C++\Access Specifiers\Access Specifiers\Access Specifiers.cpp(32,33): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Access Specifiers.vcxproj -> C:\Users\belal\Desktop\OOP C++\Access Specifiers\x64\Debug\Access Specifiers.exe
